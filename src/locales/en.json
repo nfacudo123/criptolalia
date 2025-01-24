@@ -10,5 +10,20 @@
   "sign_in": "Sign In",
   "already_registered": "Are you registered?",
   "not_registered": "Not registered?",
-  "register": "Register"
+  "register": "Register",
+  "welcome": "Welcome to Cryptolalia SAS",
+  "manage_crypto": "Manage your cryptocurrencies and enjoy blockchain-based games with ease.",
+  "wallet_balances": "Wallet Balances",
+  "litecoin": "Litecoin (LTC)",
+  "colombian_pesos": "Colombian Pesos (COP)",
+  "liteoshi": "Liteoshi",
+  "usdb_tokens": "USDB Tokens",
+  "games": "Games",
+  "access_games": "Access blockchain-based games and earn rewards.",
+  "transaction_history": "Transaction History",
+  "view_transactions": "View your recent transactions and activity.",
+  "account_settings": "Account Settings",
+  "manage_settings": "Manage your account settings and preferences.",
+  "support": "Support",
+  "get_support": "Get help and support for your account."
 }
