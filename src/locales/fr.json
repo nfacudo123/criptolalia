@@ -1,0 +1,14 @@
+{
+  "cryptolalia": "Cryptolalia",
+  "register_account": "Créer un nouveau compte",
+  "login_account": "Connectez-vous à votre compte",
+  "username": "Nom d'utilisateur",
+  "full_name": "Nom complet",
+  "email": "Adresse e-mail",
+  "password": "Mot de passe",
+  "register_button": "Créer un nouveau compte",
+  "sign_in": "Se connecter",
+  "already_registered": "Déjà inscrit ?",
+  "not_registered": "Pas encore inscrit ?",
+  "register": "S'inscrire"
+}
